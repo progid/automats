@@ -1,0 +1,3 @@
+class ConditionForAutomat {
+	ConditionForAutomat *Transitions;
+};
