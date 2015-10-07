@@ -1,4 +1,7 @@
 class ConditionForMachine {
-	ConditionForMachine *Transitions;
+	ConditionForMachine **Transitions;
 	string Out;
+public:
+	ConditionForMachine(int Size);
+	~ConditionForMachime();
 };
